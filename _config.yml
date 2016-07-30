@@ -1,0 +1,28 @@
+name: pruandprue.com
+favicon: null
+layout_spectrum: 0.4253668338060379
+typography_spectrum: 0.36164300236850977
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.36544011905789375
+  lightness: 0.8517782764974982
+  saturation: 0.6240334140602499
+  rhythmicContrast: 0.3769118287600577
+purpose: []
