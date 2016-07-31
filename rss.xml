@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[resourceful, edgy, determined and endlessly surprising. approachable perfectionists]]></title>
         <description><![CDATA[resourceful, edgy, determined and endlessly surprising. approachable perfectionists]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pruandprue-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 00:29:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jul 2016 00:31:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pruandprue-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7946be56-d4a2-4b7f-84c8-1b9c79c23ae2.jpg">]]></description>
+            <link>https://thegrid.ai/pruandprue-com/bravo/index.html</link>
+            <guid isPermaLink="false">4261760b-3bcb-4aa7-95c3-dc0489c91739</guid>
+            <pubDate>Sun, 31 Jul 2016 00:31:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f54971c7-6099-4c1e-ab52-ff2617ea5f36.jpg">]]></description>
-            <link>undefined163ca3e1-23a8-43d2-8993-5f0943754797/index.html</link>
+            <link>https://thegrid.ai/pruandprue-com/163ca3e1-23a8-43d2-8993-5f0943754797/index.html</link>
             <guid isPermaLink="false">163ca3e1-23a8-43d2-8993-5f0943754797</guid>
             <pubDate>Sun, 31 Jul 2016 00:29:32 GMT</pubDate>
         </item>
